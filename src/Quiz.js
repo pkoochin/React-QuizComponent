@@ -12,7 +12,7 @@ class Quiz extends Component
     render(){
         return(
             <div>
-                <QuizQuestion/>
+                <QuizQuestion />
             </div>
         );
     }
